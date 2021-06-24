@@ -1,0 +1,261 @@
+    1  ls
+    2  ls-a
+    3  ls -a
+    4  ls ..
+    5  pwd
+    6  clear
+    7  pwd
+    8  ls
+    9  cd Desktop
+   10  ls
+   11  cd Vanessa
+   12  ls
+   13  ls -a
+   14  pwd
+   15  cd Toti\ curso\ de\ programação/
+   16  ls
+   17  cd..
+   18  cd ~
+   19  ls
+   20  cd Desktop
+   21  ls
+   22  cd Vanessa
+   23  ls
+   24  mkdir Comandos
+   25  ls
+   26  mkdir comandos2 comandos3
+   27  ls
+   28  mkdir "Comandos 4"
+   29  ls
+   30  mkdir -p pasta/subpasta
+   31  ls
+   32  cd pasta
+   33  ls
+   34  cd..
+   35  ls
+   36  cd..
+   37  cd..
+   38  ls
+   39  mv subpasta "sub pasta"
+   40  ls
+   41  mv sub pasta pasta 1
+   42  ls
+   43  mv sub pasta "pasta 1"
+   44  mv "sub pasta" pasta1
+   45  ls
+   46  rm -rp pasta1
+   47  rm -r pasta1
+   48  ls
+   49  cd..
+   50  ls
+   51  cd..
+   52  cd..]
+   53  ls
+   54  ls
+   55  cd~
+   56  cd 
+   57  ~cd ~
+   58  cd ~
+   59  ls
+   60  cd Desktop/
+   61  ls
+   62  cd Vanessa/
+   63  ls
+   64  rm pasta
+   65  ls
+   66  rm -r pasta
+   67  ls
+   68  rm r- comandos2
+   69  ls
+   70  rm -r comandos2
+   71  ls
+   72  rm -r comandos3
+   73  ls
+   74  rm r- Comandos 4
+   75  ls
+   76  rm -r "Comandos 4"
+   77  ls
+   78  touch prueba.txt
+   79  ls
+   80  touch prueba2.pdf
+   81  ls
+   82  cp prueba.txt Comandos
+   83  ls
+   84  cd Comandos
+   85  ls
+   86  echo Parabens meu amor
+   87  cat hola
+   88  history
+   89  history 10
+   90  cat "mensagem"
+   91  echo "mensagem"
+   92  echo "mensagem" > comando.txt
+   93  ls
+   94  ls comando.txt
+   95  ls
+   96  comando.txt
+   97  clear
+   98  echo "Mensagem"
+   99  echo "mensagem" > comando.txt
+  100  cat comando.txt
+  101  echo "Parabens"
+  102  echo "Parabens" > Amor.txt
+  103  cat Amor.txt
+  104  cat 
+  105  cat > comando.txt
+  106  ls
+  107  ls comando.txt
+  108  ls
+  109  cat comando.txt
+  110  git config --global user.name "Vanessa Berdayes"
+  111  git config --global user.emal "berdayesvane@gmail.com"
+  112  git config user.name
+  113  git config user.email
+  114  git config --global user.email "berdayesvane@gmail.com"
+  115  git config user.email
+  116  cd Desktop
+  117  mkdir Curso_Git
+  118  cd..
+  119  ls
+  120  ls Curso-Git
+  121  ls
+  122  cd Curso_Git
+  123  ls
+  124  git config user.name
+  125  git init
+  126  git status
+  127  echo "#Aprendendo usar o Git" > readme.md
+  128  git status
+  129  git add readme.md
+  130  git status
+  131  git commit -m "commit inicial"
+  132  git status
+  133  echo "##Aula 1" >> readme.md
+  134  git status
+  135  echo "Kaue Maia" > participantes.txt
+  136  git status
+  137  git add.
+  138  git status
+  139  git add .
+  140  git status
+  141  git restore --staged participantes.txt
+  142  git status
+  143  git add participantes.txt
+  144  git status
+  145  git restore --stage .
+  146  git status
+  147  git commit -am "Alteração no readme"
+  148  git status
+  149  git add participantes.txt
+  150  git status
+  151  git commit -m "Adicionado participantes.txt"
+  152  hitory > Aula_3.txt
+  153  git status
+  154  git add .
+  155  git status
+  156  git commit -m "Comandos da Aula_3"
+  157  git status
+  158  history > Aula_3.txt
+  159  git status
+  160  git add .
+  161  git status
+  162  git edd .
+  163  git status
+  164  git commit -m "Comando da Aula_3"
+  165  git status
+  166  git log
+  167  git status
+  168  git init 
+  169  clear
+  170  user.name 
+  171  cd Desktop
+  172  ls
+  173  ls Curso_Git
+  174  git log
+  175  git log -- Vanessa Berdayes
+  176  git log --author="Vanessa Berdayes"
+  177  git reset
+  178  git log
+  179  git status
+  180      1  ls
+  181      2  ls-a
+  182      3  ls -a
+  183      4  ls ..
+  184      5  pwd
+  185      6  clear
+  186      7  pwd
+  187      8  ls
+  188      9  cd Desktop
+  189     10  ls
+  190     11  cd Vanessa
+  191     12  ls
+  192     13  ls -a
+  193     14  pwd
+  194     15  cd Toti\ curso\ de\ programação/
+  195     16  ls
+  196     17  cd..
+  197     18  cd ~
+  198     19  ls
+  199     20  cd Desktop
+  200     21  ls
+  201     22  cd Vanessa
+  202     23  ls
+  203     24  mkdir Comandos
+  204     25  ls
+  205     26  mkdir comandos2 comandos3
+  206     27  ls
+  207     28  mkdir "Comandos 4"
+  208     29  ls
+  209     30  mkdir -p pasta/subpasta
+  210     31  ls
+  211     32  cd pasta
+  212     33  ls
+  213     34  cd..
+  214     35  ls
+  215     36  cd..
+  216     37  cd..
+  217     38  ls
+  218     39  mv subpasta "sub pasta"
+  219     40  ls
+  220     41  mv sub pasta pasta 1
+  221     42  ls
+  222     43  mv sub pasta "pasta 1"
+  223  git config --global user.name "Vanessa Berdayes"
+  224  git config --global user.email "berdayesvane@gmail.com"
+  225  user.name
+  226  git config user.name
+  227  git config user.email
+  228  cd desktop
+  229  mkdir Curso_Git
+  230  mkdir Curso_Git
+  231  git config user.name
+  232  cd Curso_Git
+  233  git config user.name
+  234  git init
+  235  git status
+  236  echo "#Aprendendo usar o Git " > readme.md
+  237  git status
+  238  git add redme.md
+  239  git edd readme.md
+  240  git commit -m "Commit inicial"
+  241  git add readme.md
+  242  git commit -m "Commit inicial"
+  243  git status
+  244  echo "##Aula 1" >> readme.md
+  245  git status
+  246  echo "Kaue Maia" > participantes.txt
+  247  git status
+  248  git add .
+  249  git status
+  250  git restore --staged participantes.txt
+  251  git status
+  252  git add participantes.txt
+  253  git status
+  254  git restore --staged .
+  255  git status
+  256  git commit -am "Alteração no readme"
+  257  git status
+  258  git add participantes.txt
+  259  git status
+  260  git commit -m "Adicionando participantes.txt"
+  261  history > Aula_3.txt
